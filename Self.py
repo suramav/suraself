@@ -18,7 +18,7 @@ from bs4 import BeautifulSoup
 from threading import Thread
 
 cl = CYBERTK.LINE()
-cl.login(token="EsGRMIgGgFa12aPBw6Zd.ySquyAHA8qgcWz7OC4Xb3q.UHzJ7dNZGAQrUKQCWm16X5Vds5wMFKhvQPXCEbQNxlM=")
+cl.login(token="EsBtVTzh3bUU42xJWbKd.ySquyAHA8qgcWz7OC4Xb3q.g0zPBrEaOFgXN+0bnMZlJvG8WW5krNG96j3YEdXL3AE=")
 cl.loginResult()
 
 #cybertk = CYBERTK.LINE()
